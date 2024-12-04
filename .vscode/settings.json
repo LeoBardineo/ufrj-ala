@@ -1,0 +1,15 @@
+{
+    "glsl-canvas.refreshOnChange": false,
+    "[glsl]": {
+        "editor.defaultFormatter": "raczzalan.webgl-glsl-editor"
+    },
+    "[frag]": {
+        "editor.defaultFormatter": "raczzalan.webgl-glsl-editor"
+    },
+    "[vert]": {
+        "editor.defaultFormatter": "raczzalan.webgl-glsl-editor"
+    },
+    "glsl-canvas.textures": {
+        "0": "./mario.png",
+    },
+}
